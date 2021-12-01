@@ -1,1 +1,1 @@
-# Image-Stitching--Farmtopia
+# Image-Stitching
